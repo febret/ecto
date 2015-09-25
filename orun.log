@@ -1,0 +1,74 @@
+SystemManager::setup: using app config as sysem config file
+PythonInterpreter::initialize: found local python library in C:/dev/omegalib/master/modules/python
+Initializing mission control server on port 5004
+
+>> omegalib 8.0.6
+>> to get a list of quick commands type ':?'
+Running ecto.py
+Porthole server thread started
+mission control port is 5004
+porthole port is 5005
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 772:165.124.163.111:febretmac
+Porthole GUI client disconnected: 772:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 728:165.124.163.111:febretmac
+Porthole GUI client disconnected: 728:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 756:165.124.163.111:febretmac
+Porthole GUI client disconnected: 756:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 792:165.124.163.111:febretmac
+Porthole GUI client disconnected: 792:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 576:165.124.163.111:febretmac
+Porthole GUI client disconnected: 576:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 860:165.124.163.111:febretmac
+Porthole GUI client disconnected: 860:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 860:165.124.163.111:febretmac
+Porthole GUI client disconnected: 860:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 880:165.124.163.111:febretmac
+1
+1
+1
+1
+1
+1
+Porthole GUI client disconnected: 880:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 732:165.124.163.111:febretmac
+Porthole GUI client disconnected: 732:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 732:165.124.163.111:febretmac
+Porthole GUI client disconnected: 732:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 856:165.124.163.111:febretmac
+Porthole GUI client disconnected: 856:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 964:165.124.163.111:febretmac
+Porthole GUI client disconnected: 964:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 988:165.124.163.111:febretmac
+Porthole GUI client disconnected: 988:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 856:165.124.163.111:febretmac
+Porthole GUI client disconnected: 856:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 872:165.124.163.111:febretmac
+Porthole GUI client disconnected: 872:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 1016:165.124.163.111:febretmac
+Porthole GUI client disconnected: 1016:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 1020:165.124.163.111:febretmac
+Porthole GUI client disconnected: 1020:165.124.163.111:febretmac
+Porthole GUI client connected: 840:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client disconnected: 840:165.124.163.111:febretmac
+!!! ServerThread::sendFile: failed sending C:/dev/omegalib/app/ecto/././favicon.ico
+Porthole GUI client connected: 972:165.124.163.111:febretmac
+Mission control client disconnected: 
+Porthole GUI client disconnected: 972:165.124.163.111:febretmac
